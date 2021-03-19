@@ -1,17 +1,19 @@
 # Hi, I'm Fabrizio Raul 👨‍💻
 
-## I'm a Front-end developer
-<!--
-**Fabrizio99/Fabrizio99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```JavaScript
+const Fabrizio = {
+    description : `
+        - System Engineering student at UNTELS.
+        - Front-end Developer.
+        - Learning React.
+    `
+    code : ['HTML','CSS','Javascript','Dart'],
+    technologies : {
+        mobile : ['Flutter'],
+        frontEnd : {
+            js : ['jQuery','Vue.js','Vue Router','Vuex'],
+            css : ['Bootstrap']
+        }
+    }
+};
+```
