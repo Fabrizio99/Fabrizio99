@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Fabrizio Raul 👨‍💻
 
+## I'm a Front-end developer
 <!--
 **Fabrizio99/Fabrizio99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
