@@ -6,7 +6,7 @@ const Fabrizio = {
         - System Engineering student at UNTELS.
         - Front-end Developer.
         - Learning React.
-    `
+    `,
     code : ['HTML','CSS','Javascript','Dart'],
     technologies : {
         mobile : ['Flutter'],
