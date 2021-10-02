@@ -6,12 +6,11 @@ const Fabrizio = {
         - Front-end Developer.
         - System Engineering student at UNTELS.
     `,
-    code : ['HTML','CSS','Javascript','Dart'],
+    code : ['HTML','CSS','Javascript', 'TypeScript'],
     technologies : {
-        mobile : ['Flutter'],
         frontEnd : {
-            js : ['jQuery','Vue.js','Vue Router','Vuex','React.JS','Redux'],
-            css : ['Bootstrap']
+            js : ['React.JS', 'Redux', 'React Hooks', 'Angular', 'RxJS', 'NgRx', 'Vue.js v2', 'Vue Router', 'Vuex', 'jQuery'],
+            css : ['Bootstrap', 'Sass']
         }
     }
 };
